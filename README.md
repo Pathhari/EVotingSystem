@@ -1,7 +1,5 @@
-###########################################################
-#                 EVotingSystem                          #
-#            A Simple Java Voting App                    #
-###########################################################
+EVotingSystem
+A simple Java-Swing desktop application that demonstrates the core screens and logic of an electronic voting system. It ships with two roles—Admin and Voter—and a handful of demo data so you can run the program immediately after cloning
 
 📌 FEATURES
 -----------------------------------------------------------
