@@ -3,15 +3,15 @@ A simple Java-Swing desktop application that demonstrates the core screens and l
 
 📌 FEATURES
 -----------------------------------------------------------
-• Voter Registration and Login
-• Candidate Management by Admin
-• One-Person-One-Vote Enforcement
-• Auto Vote Tallying and Result Display
+- Voter Registration and Login
+- Candidate Management by Admin
+- One-Person-One-Vote Enforcement
+- Auto Vote Tallying and Result Display
 
 🛠️ REQUIREMENTS
 -----------------------------------------------------------
-• Java JDK 8 or higher
-• Git (for cloning the repository)
+- Java JDK 8 or higher
+- Git (for cloning the repository)
 
 📥 INSTALLATION & USAGE
 -----------------------------------------------------------
@@ -54,6 +54,3 @@ This project is under the MIT License.
 This is an educational demo. No encryption or real-world
 security mechanisms are implemented.
 
-###########################################################
-#                github.com/Pathhari/EVotingSystem        #
-###########################################################
